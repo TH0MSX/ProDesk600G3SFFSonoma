@@ -3,7 +3,7 @@
 **
 
 _Stable daily driver for work, media playback, 4K streaming, GeForceNOW and Virtual Machines.
-_4 
+_
 
 ![image](https://github.com/TH0MSX/ProDesk600G3Sonoma/assets/172983997/bf93d7d3-b281-4a4c-8251-dc2dc9b02ee1)
 

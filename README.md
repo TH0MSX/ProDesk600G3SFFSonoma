@@ -2,8 +2,8 @@
 **HP Pro Desk 600 G3 SFF - Hackintosh - i5-7500
 **
 
-_Stable daily driver for work, media playback, 4K streaming, GeForceNOW and Virtual Machines.
-_
+*Stable daily driver for work, media playback, 4K streaming, GeForceNOW and Virtual Machines.
+*
 
 ![image](https://github.com/TH0MSX/ProDesk600G3Sonoma/assets/172983997/bf93d7d3-b281-4a4c-8251-dc2dc9b02ee1)
 

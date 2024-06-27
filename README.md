@@ -13,6 +13,8 @@ EFI supported on Ventura, Sonoma and upcoming Sequoia
 
 Disclaimer: Please generate serial using iMacPro1,1 device name to recieve correct support for those OS versions (https://github.com/corpnewt/GenSMBIOS). 
 
+I will try to support issues through the Issues section on Github.
+
 
 | Component | Model                                                  |
 |-----------|--------------------------------------------------------|

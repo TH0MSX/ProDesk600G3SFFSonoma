@@ -23,6 +23,9 @@ I will try to support issues through the Issues section on Github.
 | Audio     | Constant CX20632                                       |
 | SSD       | Samsung SSD 860 EVO 1TB  Samsung 256 GB MZVLW256HEHP   |
 | Network   | Intel I219LM Gigabit Network Connection LOM (standard) |
+| Bluewtooth |  Bluetooth V4.0 LogiLink BT0015 USB  |
+
+Release 1.1 contains Bluetooth kexts for External BT USB Dongles - Download 1.0 if you plan to not use BT adapters.
 
 
 # Overview

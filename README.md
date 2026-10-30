@@ -2,6 +2,7 @@
 
 
 # ProDesk600G3SFFSonoma
+# This repo is no longer updated
 HP Pro Desk 600 G3 SFF - Hackintosh - i5-7500
 
 Stable daily driver for work, media playback, 4K streaming, GeForceNOW and Virtual Machines.
